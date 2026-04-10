@@ -13,7 +13,7 @@
 # def home():
 #     return jsonify({"message": "Spam Detection API Running"})
 #
-#
+#//Detecter router
 # @app.route("/detect", methods=["POST"])
 # def detect_spam():
 #
